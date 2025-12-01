@@ -45,7 +45,7 @@ export default function RepoSearch() {
                 </svg>
               </div>
               <h1 className={styles.title}>
-                 Search GitHub repositories
+                 Search GitHub Repositories
               </h1>
             </div>
           </div>
